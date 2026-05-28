@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj1892" alt="pankaj1892" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Developer**
-
 - 📫 How to reach me **pankajpardeshi175@gmail.com**
 
 - ⚡ Fun fact **I am funny**
